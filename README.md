@@ -14,10 +14,6 @@ The site is designed to be responsive, visually appealing, and easy to navigate.
 - Project showcase section with descriptions and links
 - Contact form 
 
-## How to View
-1. Clone the repository:
-2. Open the `index.html` file in your web browser
-
 ## Future Improvements
 - Add more projects as I build them
 - Include animations or interactive elements
